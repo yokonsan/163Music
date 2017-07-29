@@ -9,8 +9,12 @@
 
 数据保存到`Mongodb`数据库，保存歌曲的歌手，歌名，专辑，和热评的作者，赞数，以及作者头像url。
 
+抓取评论者的头像url，是因为如果大家喜欢，可以将他做web端。
+
 ### 运行：
 
 ```
 $ scrapy crawl music
 ```
+
+查看详情：[here](http://www.yukunweb.com/468.html)
